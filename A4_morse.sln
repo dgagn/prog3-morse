@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "morse", "morse\morse.csproj", "{0EB530E6-62C3-49D0-8223-3799A709CF8D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{C3C74DB0-3FD4-4C3D-923A-A053AECF1DF8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EB530E6-62C3-49D0-8223-3799A709CF8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EB530E6-62C3-49D0-8223-3799A709CF8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EB530E6-62C3-49D0-8223-3799A709CF8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EB530E6-62C3-49D0-8223-3799A709CF8D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C3C74DB0-3FD4-4C3D-923A-A053AECF1DF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C3C74DB0-3FD4-4C3D-923A-A053AECF1DF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C3C74DB0-3FD4-4C3D-923A-A053AECF1DF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C3C74DB0-3FD4-4C3D-923A-A053AECF1DF8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
